@@ -1,0 +1,20 @@
+[
+  {
+    "producto": {
+      "id": 1,
+      "name": "mouse",
+      "price": 8000,
+      "url": "algo",
+      "description": "mouse gamer"
+    }
+  },
+  {
+    "producto": {
+      "id": 2,
+      "name": "mouse",
+      "price": 8000,
+      "url": "algo",
+      "description": "mouse gamer"
+    }
+  }
+]
