@@ -25,8 +25,5 @@ const consultaAxios = async (req, res) => {
 }
 
 
-
-
-
 module.exports = {item, itemsList, consultaAxios}
 
