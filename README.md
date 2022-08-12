@@ -1,17 +1,8 @@
 # api-inmobiliaria
 Back-end Api Inmobiliaria
 
- Se instalo Express Generector   npm install express-generator -g
+ Back-end Api Inmobiliaria
 
- se creo Api - Server    express --no-view server
+Coleccion en Postma para hacer las pruebas del CRUD
 
- se instalo Dependencias dentro del director Server - npm install  
-
- se instalo nodemon    npm install -g demon 
-
- se agrego al Script    "dev": "nodemon /bin/www"
-
- para correr en Desarrollo - npmp run dev
- para correr servidor      - npmp run start 
-
- 
+https://go.postman.co/workspace/Team-Workspace~06056bb8-33b3-4e36-8438-798a7b48a528/collection/22437910-cb22ed8c-9907-42a3-9542-d3ed2ebda237?action=share&creator=22437910
