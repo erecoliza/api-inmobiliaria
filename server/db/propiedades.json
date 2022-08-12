@@ -1,0 +1,62 @@
+[
+  {
+    "propiedad": {
+      "id": 1,
+      "tipoPropiedad": "casa",
+      "habitaciones": 3,
+      "baños": 2,
+      "garage": 1,
+      "m2": 65,
+      "fotos": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHqjdc9447kvae8eWnfLfngiPfGrfarahuCQ&usqp=CAU",
+      "ubicacion": "https://goo.gl/maps/cpgqn6jiTBZt2agEA",
+      "precioVenta": 95000,
+      "monedaVenta": "Dolares",
+      "descripcion": "Cocina Comedor - Patio con parrilla - Tv Cable - Microondas - GAS NATURAL - WIFI"
+    }
+  },
+  {
+    "propiedad": {
+      "id": "2",
+      "tipoPropiedad": "casa",
+      "habitaciones": 3,
+      "baños": 2,
+      "garage": 1,
+      "m2": 65,
+      "fotos": "https://decoracionesbonitas.com/wp-content/uploads/2022/05/fachadas-pequenas-bonitas-2-1081x600.jpg",
+      "ubicacion": "https://goo.gl/maps/KtrXKPPkXhsHTiip8",
+      "precioVenta": 56000,
+      "monedaVenta": "Dolares",
+      "descripcion": "Living con calefactor / cocina-comedor / estacionamiento al frente con garage pasante / fondo libre de 25mts aprox. con parrilla cubierta / jardincito al frente/ lavadero / cuarto de herramientas "
+    }
+  },
+  {
+    "propiedad": {
+      "id": 3,
+      "tipoPropiedad": "Departamento",
+      "habitaciones": 1,
+      "baños": 1,
+      "garage": 0,
+      "m2": 50,
+      "fotos": "http://planosycasas.net/wp-content/uploads/2016/09/Fachadas-de-departamentos-peque%C3%B1os-modernos.jpg",
+      "ubicacion": "https://goo.gl/maps/K68PZFhAcjqJDdcz6",
+      "precioVenta": 43000,
+      "monedaVenta": "Dolares",
+      "descripcion": "cocina-comedor con sofá cama con catre + ventilador de techo y led de 32 pulgadas / baño completo / sin cochera / parrillita en balcón / departamento interno"
+    }
+  },
+  {
+    "propiedad": {
+      "id": 4,
+      "tipoPropiedad": "Chalet",
+      "habitaciones": 5,
+      "baños": 3,
+      "garage": 0,
+      "m2": 90,
+      "fotos": "http://planosycasas.net/wp-content/uploads/2016/09/Fachadas-de-departamentos-peque%C3%B1os-modernos.jpg",
+      "ubicacion": "https://goo.gl/maps/K68PZFhAcjqJDdcz6",
+      "precioVenta": 110000,
+      "monedaVenta": "Dolares",
+      "descripcion": " "
+    }
+  }
+]
